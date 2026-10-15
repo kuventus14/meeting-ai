@@ -1,0 +1,6 @@
+.DS_Store
+.env
+*.key
+.gemini_key
+node_modules/
+*.log
